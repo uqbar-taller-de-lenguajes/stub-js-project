@@ -1,0 +1,11 @@
+{
+  "name": "stub-js-lenguajes-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "GPL3",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "node": "^8.2.1",
+    "pegjs": "^0.10.0"
+  }
+}
